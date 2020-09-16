@@ -125,6 +125,7 @@ socket.emit("hello", "some data");
             default: //
         }
 
+        if(painting || type === "start")
         socket.emit("draw", {x,y,type,color});
 
         switch(type){
