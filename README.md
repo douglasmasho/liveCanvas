@@ -14,4 +14,4 @@ This feature can be used for brainstorming(in the case of an online study sessio
  ## Technologies Used
  Node.js, express, socket.io, html5 canvas API. 
 
-
+##[Live Demo](https://live-canvas.herokuapp.com/)
